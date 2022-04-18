@@ -5,4 +5,10 @@
 ### высокая точность поиска
 ### высокая скорость поиска
 ### низкая цена
+```css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
+```
 
